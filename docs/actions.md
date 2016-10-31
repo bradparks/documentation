@@ -794,7 +794,7 @@ Transition one step back from the current view
 ---
 
 ##$network.request
-Make GET/POST/PUT/DELETE network requests
+Make GET/POST/PUT/DELETE network requests (source: [JasonNetworkAction.m](https://github.com/Jasonette/JASONETTE-iOS/blob/develop/app/Jasonette/JasonNetworkAction.m))
 
 ### ■ options
 - `url`: The url to access.
